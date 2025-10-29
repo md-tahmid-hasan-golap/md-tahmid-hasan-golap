@@ -46,7 +46,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:golapraj47@gmail.com">
+  <a href="golapraj47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/g.lap.raj" target="_blank">
