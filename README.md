@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" style="width: 100%; height: 300;" />
+  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 </p>
+
 
 
 
