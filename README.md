@@ -7,7 +7,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 - 🔭 I’m currently working on **Full Stack Web Projects**
 - 🌱 I’m learning **Node.js, TypeScript, and Next.js**
 - 💬 Ask me about **React, Firebase, MongoDB, or API Integration**
