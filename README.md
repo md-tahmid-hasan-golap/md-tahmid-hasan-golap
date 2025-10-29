@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" width="100%" height="200" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Md Tahmid Hasan Golap</h1>
 <h3 align="center">💻 Full Stack Developer | MERN + Next.js Learner | Passionate Coder</h3>
 
