@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" style="max-width: 80%; height="300";" />
+  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" style="max-width: 100%; height: 300px;" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Md Tahmid Hasan Golap</h1>
