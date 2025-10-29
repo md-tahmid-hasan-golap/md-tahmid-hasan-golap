@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading image.png…]()
-" alt="Banner" width="300" height="300" />
+  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" width="300" height="300" />
 </p>
 
 
