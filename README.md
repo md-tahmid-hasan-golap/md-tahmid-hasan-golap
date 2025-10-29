@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" width="80%" />
+  <img src="https://i.imgur.com/bMXOLPo.jpeg" alt="Banner" style="max-width: 80%; height: auto;" />
 </p>
 
 
