@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Tahmid Hasan Golap</h1>
-<h2 align="center">💻 Frontend Developer | MERN Stack Learner | Passionate Coder</h2>
+<h3 align="center">💻 Frontend Developer | MERN Stack Learner | Passionate Coder</h3>
 
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📧 golapraj47@gmail.com
