@@ -5,6 +5,9 @@
 <h1 align="center">Hi 👋, I'm Md Tahmid Hasan Golap</h1>
 <h3 align="center">💻 Frontend Developer | MERN Stack Learner | Passionate Coder</h3>
 
+📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📧 golapraj47@gmail.com
+
+
 ---
 
 ## 🌟 About Me
