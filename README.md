@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/0RkgCyW3/campaign-creators-k-Q4t-Bkl-JI-unsplash.jpg" alt="Banner" style="width: 95%; height: auto; border-radius: 12px;" />
+  <!-- <img src="https://i.ibb.co.com/0RkgCyW3/campaign-creators-k-Q4t-Bkl-JI-unsplash.jpg" alt="Banner" style="width: 95%; height: auto; border-radius: 12px;" /> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Tahmid Hasan Golap</h1>
