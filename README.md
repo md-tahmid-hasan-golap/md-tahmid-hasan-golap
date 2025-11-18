@@ -8,10 +8,11 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **Full Stack & MERN Projects**
-- 🌱 Learning **Node.js, TypeScript, and Next.js**
-- 💬 Ask me about **React, Firebase, MongoDB, or API Integration**
-- ⚡ I love creating beautiful UI and solving real-world problems
+
+I am currently working on **Full Stack** and **MERN Stack projects**, steadily improving my skills along the way. I started with **HTML, CSS, Tailwind CSS, and JavaScript**, creating a variety of user interfaces. Gradually, I became proficient in **React** and now work with **Node.js, Express.js, Firebase, and MongoDB**. I am also learning **TypeScript** and **Next.js** to build more professional and scalable applications.  
+
+I love designing **beautiful UIs** and developing web applications that solve **real-world problems**. If you have any questions related to **React, Firebase, MongoDB, or API Integration**, feel free to ask me — I always enjoy helping others.  
+
 
 ---
 
