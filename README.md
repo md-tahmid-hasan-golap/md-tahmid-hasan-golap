@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co.com/0RkgCyW3/campaign-creators-k-Q4t-Bkl-JI-unsplash.jpg" 
+    src="https://i.ibb.co.com/k2q2G5p4/3425171.jpg" 
     alt="Banner"
     width="100%"
     style="max-height: 200px; object-fit: cover; border-radius: 12px;"
