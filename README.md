@@ -3,7 +3,7 @@
     src="https://i.ibb.co.com/0RkgCyW3/campaign-creators-k-Q4t-Bkl-JI-unsplash.jpg" 
     alt="Banner"
     width="100%"
-    style="max-height: 400px; object-fit: cover; border-radius: 12px;"
+    style="max-height: 200px; object-fit: cover; border-radius: 12px;"
   />
 </p>
 
