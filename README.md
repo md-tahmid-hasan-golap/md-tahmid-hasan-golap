@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.postimg.cc/MKPZ7NPy/Whats-App-Image-2025-11-19-at-2-46-30-PM.jpg" 
+    src="https://i.postimg.cc/5tfnKZGL/1.jpg" 
     alt="Banner"
     width="100%"
     style="max-height: 200px; object-fit: cover; border-radius: 12px;"
