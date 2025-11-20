@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.postimg.cc/5tfnKZGL/1.jpg" 
+    src="[https://i.postimg.cc/5tfnKZGL/1.jpg](https://i.postimg.cc/WprBSTr1/1.jpg)" 
     alt="Banner"
     width="100%"
     style="max-height: 200px; object-fit: cover; border-radius: 12px;"
