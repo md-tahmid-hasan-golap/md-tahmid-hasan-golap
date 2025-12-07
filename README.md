@@ -12,7 +12,8 @@
 <h3 align="center">💻 Frontend Developer | MERN Stack Learner | Passionate Coder</h3>
 
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📧 golapraj47@gmail.com
+  📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📧 tahmidhasangolap@gmail.com
+
 </p>
 
 
