@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/HfwbWN3v/1.png" 
+    src="a3780156-3548-4391-a171-ce1874867512.png" 
     alt="Banner"
     width="100%"
     style="max-height: 200px; object-fit: cover; border-radius: 12px;"
