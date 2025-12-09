@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.postimg.cc/hjqZtJYd/git-Hub-thamnail.jpg" 
+    src="https://postimg.cc/zL0Fdf8z" 
     alt="Banner"
     width="100%"
     style="max-height: 200px; object-fit: cover; border-radius: 12px;"
