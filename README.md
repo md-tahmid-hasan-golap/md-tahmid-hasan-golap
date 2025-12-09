@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.postimg.cc/kXnQXNg8/1.png" 
+    src="https://raw.githubusercontent.com/md-tahmid-hasan-golap/md-tahmid-hasan-golap/refs/heads/main/1.png" 
     alt="Banner"
     width="100%"
     style="max-height: 200px; object-fit: cover; border-radius: 12px;"
