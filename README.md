@@ -10,8 +10,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Tahmid Hasan Golap</h1>
-<h3 align="center">💻 Frontend Developer | MERN Stack Learner | Passionate Coder</h3>
-
+<h3 align="center">💻 MERN Stack Developer | Full-Stack Learner | Passionate Coder</h3>
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📧 tahmidhasangolap@gmail.com
 
